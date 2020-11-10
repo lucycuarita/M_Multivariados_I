@@ -23,16 +23,22 @@ El documento con el  desarrollo teórico-práctico debe ser subido en el espacio h
 > - **EJERCICIOS:** 1) 5.1, 2) 5.3, 3) 5.5, 4) 5.9, 5) 5.11, 6) 5.12, 7) 5.14, 8) 5.16. 
 
 
-### `TEMA N° 4: Inferencia en matrices de covarianzas` (Páginas 266-268)
-> - EJERCICIOS:   
+### `TEMA N° 4: Inferencia en matrices de covarianzas` (Páginas 268-269)
+> - **EJERCICIOS:**  1) 7.2, 2) 7.5, 3) 7.9, 4) 7.11, 5) 7.15, 6) 7.21, 7) 7.30.
+> - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 7.2 y considerando los subvectores: (y1,y2,y3), (y4,y5,y6) y (y7,y8,y9).
+      >   - Independencia de varios subvectores (Sección 7.4.2)
 
 
 ### `TEMA N° 5: Análisis de Componentes Principales` (Páginas 406-407)
-> - EJERCICIOS:   
+> - **EJERCICIOS:**  1) 12.2, 2) 12.4, 3) 12.6, 4) 12.8, 5) 12.10.
+> - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 7.2.
+      >   - Selección de Variables (Sección 12.9) 
 
 
 ### `TEMA N° 6: Análisis Factorial` (Páginas 448-449)
-> - EJERCICIOS:   
+> - **EJERCICIOS:**  1) 13.2, 2) 13.4, 3) 13.6, 4) 13.8, 5) 13.10.
+> - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 13.1.
+      >   - Método del Factor Principal (Sección 13.3.2)   
 
 
 ### `REFERENCIA BIBLIOGRÁFICA:` 
