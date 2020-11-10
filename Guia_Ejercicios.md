@@ -27,21 +27,21 @@ El documento con el  desarrollo teórico-práctico debe ser subido en el espacio h
 > - **EJERCICIOS:**  1) 7.2, 2) 7.5, 3) 7.9, 4) 7.11, 5) 7.15, 6) 7.21, 7) 7.30.
 > - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 7.2 y considerando los subvectores: (y1,y2,y3), (y4,y5,y6) y (y7,y8,y9).
 
-      >   - Independencia de varios subvectores (Sección 7.4.2)
+       >   - INDEPENDENCIA DE VARIOS SUBVECTORES (Sección 7.4.2)
 
 
 ### `TEMA N° 5: Análisis de Componentes Principales` (Páginas 406-407)
 > - **EJERCICIOS:**  1) 12.2, 2) 12.4, 3) 12.6, 4) 12.8, 5) 12.10.
 > - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 7.2.
 
-      >   - Selección de Variables (Sección 12.9) 
+      >   - SELECCION DE VARIABLES (Sección 12.9) 
 
 
 ### `TEMA N° 6: Análisis Factorial` (Páginas 448-449)
 > - **EJERCICIOS:**  1) 13.2, 2) 13.4, 3) 13.6, 4) 13.8, 5) 13.10.
 > - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  aplicar la teoría expuesta utilizando la Tabla 13.1.
 
-      >   - Método del Factor Principal (Sección 13.3.2)   
+      >   - METODO DEL FACTOR PRINCIPAL (Sección 13.3.2)   
 
 
 ### `REFERENCIA BIBLIOGRÁFICA:` 
