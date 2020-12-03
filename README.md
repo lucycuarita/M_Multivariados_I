@@ -21,10 +21,10 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    26 | 15/10/2020    | 1, 2 y 3 |
-| Segundo Parcial   	|    26 | 10/12/2020     | 4, 5 y 6   
+| Primer Parcial	|    25 | 15/10/2020    | 1, 2 y 3 |
+| Segundo Parcial   	|    25 | 10/12/2020    | 4, 5 y 6   
 | Examen Final   	|    30 | 15/12/2020    | 1 al 6 |
-| Prácticas             |    18 |  |  |
+| Prácticas             |    20 |  |  |
 
 
 
@@ -35,8 +35,7 @@
 | Segunda	|   3 | 6/10/2020      | 2  |
 | Tercera   	|   3 | 15/10/2020      | 3  |
 | Cuarta     	|   3 | 19/11/2020       | 4  |
-| Quinta    	|   3 | 3/12/2020      | 5  |
-| Sexta    	|   3 | 10/12/2020       | 6  |
+| Quinta    	|   3 | 10/12/2020      | 5  |
 
 
 ## `Video / Video Conferencia por Google Meet`
