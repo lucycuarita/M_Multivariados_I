@@ -20,10 +20,11 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    27 | 18/03/2021    | 1, 2 |
-| Segundo Parcial   	|    27 | 22/04/2021    | 3, 4 |   
-| Examen Final   	|    28 | 08/06/2021    | 5, 6 |
-| Prácticas             |    18 |  |  |
+| Primer Parcial	|    20 | 18/03/2021    | 1, 2 |
+| Segundo Parcial   	|    20 | 22/04/2021    | 3, 4 |   
+| Tercer Parcial  	|    20 | 03/06/2021    | 5, 6 |
+| Examen Final  	|    25 | 15/06/2021    | 1 al 6 |
+| Prácticas             |    15 |  |  |
 
 
 ## `Prácticas`
@@ -38,7 +39,7 @@
 
 
 ### `Examen Recuperatorio`
-> 15/06/2021 : Todos los temas correspondientes al contenido de la materia.
+> 08/06/2021 : Todos los temas correspondientes al contenido de la materia.
 
 
 ### `Publicación de Notas Finales`
